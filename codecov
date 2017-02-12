@@ -2,7 +2,7 @@
 
 set -e +o pipefail
 
-VERSION="tbd"
+VERSION="1b98dd4"
 
 url="https://codecov.io"
 url_o=""
